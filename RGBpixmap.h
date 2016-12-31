@@ -1,7 +1,7 @@
 #ifndef _RGBPIXMAP
 	#define _RGBPIXMAP
 #if defined(_WIN32)
-#include <glut.h>
+#include <Gl/glut.h>
 #else
 #include <GLUT/glut.h>
 #endif

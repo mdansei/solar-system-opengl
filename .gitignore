@@ -1,2 +1,5 @@
 *.swp
 a.out
+/Debug
+/.vs/solar-system-opengl/v14
+/.gitattributes
