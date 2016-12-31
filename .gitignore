@@ -8,3 +8,8 @@ solar-system-opengl.vcxproj.filters
 *.suo
 solar-system-opengl.VC.VC.opendb
 packages.config
+*.filters
+solar-system.vcxproj
+*.opendb
+solar-system.VC.db
+*.sln

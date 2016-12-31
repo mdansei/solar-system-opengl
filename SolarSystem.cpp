@@ -6,7 +6,7 @@
 
 //If we're in the windows environment load the appropriate libraries
 #if defined(_WIN32)
-	#include "glut.h"
+	#include "GL/glut.h"
 	#include <windows.h>
 #else
 	#include <GLUT/glut.h>
@@ -15,7 +15,7 @@
 #include <math.h>
 #include "RGBpixmap.h" 
 #include "SolarSystemGlobals.h"
-#include "ParticleSystem.h"
+#include "ParticleSystem.h" 
 
 /********************/
 /* Global Variables */
