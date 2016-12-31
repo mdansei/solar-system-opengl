@@ -3,3 +3,8 @@ a.out
 /Debug
 /.vs/solar-system-opengl/v14
 /.gitattributes
+solar-system-opengl.sln
+solar-system-opengl.vcxproj.filters
+*.suo
+solar-system-opengl.VC.VC.opendb
+packages.config
